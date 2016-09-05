@@ -1,2 +1,2 @@
-- [ ] Mohamed Ayadi
-- [ ] Alexandre Bouille
+# Devoirs
+Dépôt de validation de devoirs
