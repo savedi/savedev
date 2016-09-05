@@ -1,34 +1,34 @@
-- [] Alexandre Bouille
-- [] Allan Hourdin
-- [] Antoni Gagno
-- [] Aurore Charles
-- [] Bassir El Ouaadi
-- [] Camille Lecour
-- [] Cédric Prast
-- [] Eliot Gonnet
-- [] Fabien Viazzi
-- [] Grégory Faitot
-- [] Guillaume Delattre
-- [] Guillaume Raynaud
-- [] Gwendal Jean
-- [] Henry Jugy
-- [] Jeanne Dupretz
-- [] Kellian Costa
-- [] Louis Hassler
-- [] Louis Villain
-- [] Ludovic Nunes Da Silva
-- [] Marion Deisard-Decot
-- [] Mathilde Lacroix
-- [] Maximilien Riepl
-- [] Melva Laurent-Christine
-- [] Mohamed Ayadi
-- [] Nicolas Doussin
-- [] Noe Conti
-- [] Olivier Piollet
-- [] Remi Mariani
-- [] Thibaut Lombard
-- [] Thomas Slack
-- [] Tony Rolland
-- [] Virgil Couturier
-- [] William Fernandes
-- [] Yanis Galland
+- [ ] Alexandre Bouille
+- [ ] Allan Hourdin
+- [ ] Antoni Gagno
+- [ ] Aurore Charles
+- [ ] Bassir El Ouaadi
+- [ ] Camille Lecour
+- [ ] Cédric Prast
+- [ ] Eliot Gonnet
+- [ ] Fabien Viazzi
+- [ ] Grégory Faitot
+- [ ] Guillaume Delattre
+- [ ] Guillaume Raynaud
+- [ ] Gwendal Jean
+- [ ] Henry Jugy
+- [ ] Jeanne Dupretz
+- [ ] Kellian Costa
+- [ ] Louis Hassler
+- [ ] Louis Villain
+- [ ] Ludovic Nunes Da Silva
+- [ ] Marion Deisard-Decot
+- [ ] Mathilde Lacroix
+- [ ] Maximilien Riepl
+- [ ] Melva Laurent-Christine
+- [ ] Mohamed Ayadi
+- [ ] Nicolas Doussin
+- [ ] Noe Conti
+- [ ] Olivier Piollet
+- [ ] Remi Mariani
+- [ ] Thibaut Lombard
+- [ ] Thomas Slack
+- [ ] Tony Rolland
+- [ ] Virgil Couturier
+- [ ] William Fernandes
+- [ ] Yanis Galland
