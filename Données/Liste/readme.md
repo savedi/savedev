@@ -1,3 +1,4 @@
+@EdisonLorgues1SD1617/classe
 - [ ] Alexandre Bouille
 - [ ] Allan Hourdin
 - [ ] Antoni Gagno
