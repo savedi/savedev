@@ -39,3 +39,9 @@
 ![copieDuLien](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Devoirs/master/Donn%C3%A9es/Tuto%20Devoirs/Images/copiedulien.png)
 
 - Pensez alors à cocher votre nom en haut du fil.
+
+- Bonus (Participation récompensée par une note) Comparez votre travail à ceux des camarades.
+
+  - Signalez (poliement) les éventuelles erreurs rencontrées (les votres ou celles de vos camarades).
+  
+  - N'hésitez pas à poser des questions sur le fil.
