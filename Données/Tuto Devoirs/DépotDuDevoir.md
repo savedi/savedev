@@ -18,7 +18,7 @@
 
 ![yourprofile](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Devoirs/master/Donn%C3%A9es/Tuto%20Devoirs/Images/yourprofile.png)
 
--Allez sur l'espace de la classe:
+- Allez sur l'espace de la classe:
 
 ![clickOrganzition](https://github.com/EdisonLorgues1SD1617/Devoirs/blob/master/Donn%C3%A9es/Tuto%20Devoirs/Images/clicorganizations.png)
 
