@@ -34,6 +34,8 @@
 
 ![Date](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Devoirs/master/Donn%C3%A9es/Tuto%20Devoirs/Images/jeudi15.png)
 
-- Collez le lien vers le fichier sur votre dépot:
+- Collez le lien vers le fichier sur votre dépot et valider en cliquant sur comment:
 
 ![copieDuLien](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Devoirs/master/Donn%C3%A9es/Tuto%20Devoirs/Images/copiedulien.png)
+
+- Pensez alors à cocher votre nom en haut du fil.
