@@ -19,6 +19,7 @@
 - [ ] Louis Villain
 - [ ] Ludovic Nunes Da Silva
 - [ ] Marion Deisard-Decot
+- [ ] Mary Michel
 - [ ] Mathilde Lacroix
 - [ ] Maximilien Riepl
 - [ ] Melva Laurent-Christine
