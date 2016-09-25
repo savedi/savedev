@@ -1,4 +1,5 @@
 @EdisonLorgues1SD1617/classe
+
 - [ ] Alexandre Bouille
 - [ ] Allan Hourdin
 - [ ] Antoni Gagno
@@ -16,18 +17,17 @@
 - [ ] Jeanne Dupretz
 - [ ] Kellian Costa
 - [ ] Louis Hassler
-- [ ] Louis Villain
+- [ ] Louis Vilain
 - [ ] Ludovic Nunes Da Silva
 - [ ] Marion Deisard-Decot
 - [ ] Mary Michel
 - [ ] Mathilde Lacroix
-- [ ] Maximilien Riepl
+- [ ] Maximilian Riepl
 - [ ] Melva Laurent-Christine
 - [ ] Mohamed Ayadi
 - [ ] Nicolas Doussin
 - [ ] Noe Conti
 - [ ] Olivier Piollet
-- [ ] Remi Mariani
 - [ ] Thibaut Lombard
 - [ ] Thomas Slack
 - [ ] Tony Rolland
