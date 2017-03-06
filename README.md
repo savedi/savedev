@@ -1,4 +1,4 @@
-# [Devoirs](Math1SD1617)
+# [Devoirs](https://github.com/EdisonLorgues1SD1617/Devoirs/issues)
 
 **Devoir à la maison**: Pour lundi 13 mars 2017:
 
