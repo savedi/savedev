@@ -20,7 +20,7 @@ DM13 Pour lundi 6 fevrier 2017:
 
 DM12 Pour lundi 30 janvier 2016:
 
-Correction du contrôle sur les suites et les algorithmes à rendre.
+Correction du [contrôle](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Contr%C3%B4les) sur les suites et les algorithmes à rendre.
 
 ---
 
@@ -83,7 +83,7 @@ DM5 Pour lundi 7 novembre 2016
 
 DM4 Pour lundi 17 octobre 2016:
 
-Réaliser une correction du contrôle sur le second degré avec des problèmes.
+Réaliser une correction du [contrôle](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Controles) sur le second degré avec des problèmes.
 
 ---
 
