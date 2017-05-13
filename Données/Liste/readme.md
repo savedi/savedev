@@ -9,6 +9,7 @@
 - [ ] Cédric Prast
 - [ ] Eliot Gonnet
 - [ ] Fabien Viazzi
+- [ ] Gabin Salucci-Battaglia
 - [ ] Grégory Faitot
 - [ ] Guillaume Delattre
 - [ ] Guillaume Raynaud
