@@ -1,4 +1,7 @@
-## [Historique des devoirs à la maison](https://github.com/EdisonLorgues1SD1617/Devoirs/tree/master/Donn%C3%A9es) 
+
+#[Devoirs](https://github.com/EdisonLorgues1SD1617/Devoirs/issues).
+
+## [Historique des devoirs à la maison](https://github.com/EdisonLorgues1SD1617/Devoirs/tree/master/Donn%C3%A9es)
 
 ## Tutoriels
 
